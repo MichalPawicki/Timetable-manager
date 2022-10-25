@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Timetablemanager/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Timetablemanager/app/src/main/res/layout/calendar_cell.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Timetablemanager/app/src/main/res/layout/fragment_month_calendar.xml" value="0.22" />
       </map>
     </option>
   </component>

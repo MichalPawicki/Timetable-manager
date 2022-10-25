@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Timetable manager</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="monthYearTV">Luty 2021</string>
+    <string name="niedziela">NIE</string>
+    <string name="poniedzialek">PON</string>
+    <string name="wtorek">WTO</string>
+    <string name="sroda">SRO</string>
+    <string name="czwartek">CZW</string>
+    <string name="piatek">PIA</string>
+    <string name="sobota">SOB</string>
 </resources>
